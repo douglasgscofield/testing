@@ -3,7 +3,7 @@
 use strict;
 use warnings;
 
-print 'I said, HELLO!!!!\n'
+print "I said, HELLO!!!!\n";
 
-print 'Nevermind.\n'
+print "Nevermind.  No really.\n";
 
