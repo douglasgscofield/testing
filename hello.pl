@@ -2,8 +2,9 @@
 
 use strict;
 use warnings;
+use feature 'say';
 
-print "I said, HELLO!!!!\n";
+say "I said, HELLO!!!!";
 
-print "Nevermind.  No really.\n";
+say "Nevermind.  No really.";
 
